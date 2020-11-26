@@ -1,0 +1,13 @@
+C:\Users\ЭДУАРД\source\repos\LoggerArtur\LoggerArtur\bin\Debug\netcoreapp3.1\LoggerArtur.exe
+C:\Users\ЭДУАРД\source\repos\LoggerArtur\LoggerArtur\bin\Debug\netcoreapp3.1\LoggerArtur.deps.json
+C:\Users\ЭДУАРД\source\repos\LoggerArtur\LoggerArtur\bin\Debug\netcoreapp3.1\LoggerArtur.runtimeconfig.json
+C:\Users\ЭДУАРД\source\repos\LoggerArtur\LoggerArtur\bin\Debug\netcoreapp3.1\LoggerArtur.runtimeconfig.dev.json
+C:\Users\ЭДУАРД\source\repos\LoggerArtur\LoggerArtur\bin\Debug\netcoreapp3.1\LoggerArtur.dll
+C:\Users\ЭДУАРД\source\repos\LoggerArtur\LoggerArtur\bin\Debug\netcoreapp3.1\LoggerArtur.pdb
+C:\Users\ЭДУАРД\source\repos\LoggerArtur\LoggerArtur\obj\Debug\netcoreapp3.1\LoggerArtur.csprojAssemblyReference.cache
+C:\Users\ЭДУАРД\source\repos\LoggerArtur\LoggerArtur\obj\Debug\netcoreapp3.1\LoggerArtur.AssemblyInfoInputs.cache
+C:\Users\ЭДУАРД\source\repos\LoggerArtur\LoggerArtur\obj\Debug\netcoreapp3.1\LoggerArtur.AssemblyInfo.cs
+C:\Users\ЭДУАРД\source\repos\LoggerArtur\LoggerArtur\obj\Debug\netcoreapp3.1\LoggerArtur.csproj.CoreCompileInputs.cache
+C:\Users\ЭДУАРД\source\repos\LoggerArtur\LoggerArtur\obj\Debug\netcoreapp3.1\LoggerArtur.dll
+C:\Users\ЭДУАРД\source\repos\LoggerArtur\LoggerArtur\obj\Debug\netcoreapp3.1\LoggerArtur.pdb
+C:\Users\ЭДУАРД\source\repos\LoggerArtur\LoggerArtur\obj\Debug\netcoreapp3.1\LoggerArtur.genruntimeconfig.cache
